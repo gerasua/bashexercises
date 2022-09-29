@@ -1,0 +1,2 @@
+# bashexercises
+Bash Exercises
